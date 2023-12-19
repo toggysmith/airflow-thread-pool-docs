@@ -35,9 +35,9 @@
 # Engineering design document
 
 - [Introduction](./engineering-design-document/introduction.md)
-- [MoSCoW requirements](./engineering-design-document/moscow-requirements.md)
-- [Research into related projects](./engineering-design-document/research-into-related-projects.md)
-- [Design and technology overview](./engineering-design-document/design-and-technology-overview.md)
+- [Requirements specification](./engineering-design-document/requirements-specification.md)
+- [System design](./engineering-design-document/system-design.md)
+- [Related projects research](./engineering-design-document/related-projects-research.md)
 
 ---
 

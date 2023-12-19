@@ -1,1 +1,0 @@
-# Research into related projects
