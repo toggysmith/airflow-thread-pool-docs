@@ -4,41 +4,41 @@
 
 # Get started
 
-- [Background]()
-- [Installing required tools]()
-- [Getting Airflow]()
-- [Getting SFML]()
-- [Creating a basic C++ project]()
-- [Adding boids]()
-- [Using an Airflow thread pool for the boid logic]()
-- [Measuring the performance difference]()
+- [Background](./get-started/background.md)
+- [Install the required tools](./get-started/install-the-required-tools.md)
+- [Get Airflow](./get-started/get-airflow.md)
+- [Get SFML](./get-started/get-sfml.md)
+- [Create a basic C++ project](./get-started/create-a-basic-cpp-project.md)
+- [Add boids](./get-started/add-boids.md)
+- [Use an Airflow thread pool for the boid logic](./get-started/use-an-airflow-thread-pool-for-the-boid-logic.md)
+- [Measure the performance difference](./get-started/measure-the-performance-difference.md)
 
 # How-to guides
 
-- [Include Airflow in a CMake project]()
-    - [Download approach]()
-    - [FetchContent approach]()
-    - [Git submodule approach]()
-- [Work with Airflow]()
-    - [Create and submit tasks to a thread pool]()
-    - [Control a thread pool's execution]()
+- [Include Airflow in a CMake project](./how-to-guides/include-airflow-in-a-cmake-project.md)
+    - [Download approach](./how-to-guides/include-airflow-in-a-cmake-project/download-approach)
+    - [FetchContent approach](./how-to-guides/include-airflow-in-a-cmake-project/fetchcontent-approach)
+    - [Git submodule approach](./how-to-guides/include-airflow-in-a-cmake-project/git-submodule-approach)
+- [Work with Airflow](./how-to-guides/work-with-airflow.md)
+    - [Create and submit tasks to a thread pool](./how-to-guides/work-with-airflow/create-and-submit-tasks-to-a-thread-pool.md)
+    - [Control a thread pool's execution](./how-to-guides/work-with-airflow/control-a-thread-pools-execution.md)
 
 # Technical reference
 
-- [API reference]()
-- [Controlling CMake variables]()
+- [API reference](./technical-reference/api-reference.md)
+- [CMake variables](./technical-reference/cmake-variables.md)
 
 # Background information
 
-- [Thread pools]()
+- [Thread pools](./background-information/thread-pools.md)
 
-# Design document
+# Engineering design document
 
-- [Introduction]()
-- [MoSCoW requirements]()
-- [Research into related projects]()
-- [Design and technology overview]()
+- [Introduction](./engineering-design-document/introduction.md)
+- [MoSCoW requirements](./engineering-design-document/moscow-requirements.md)
+- [Research into related projects](./engineering-design-document/research-into-related-projects.md)
+- [Design and technology overview](./engineering-design-document/design-and-technology-overview.md)
 
 ---
 
-[About me]()
+[About me](./about-me.md)
