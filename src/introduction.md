@@ -8,4 +8,4 @@ Airflow is free and open source. You can find the source code on [GitHub](https:
 
 ## License
 
-The Airflow source and documentation are released under the [Unlicense license](https://unlicense.org/):
+The Airflow source and documentation are released under the [Unlicense license](https://unlicense.org/).
